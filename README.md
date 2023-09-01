@@ -3,8 +3,8 @@ Sebuah Aplikasi dengan fitur login.
 
 Alur Fitur Login:
 
-Memasukkan email dan password
+1. Memasukkan email dan password
 
-Memvalidasi masukan.
+2. Memvalidasi masukan.
 
-Menampilkan halaman home.
+3. Menampilkan halaman home.
